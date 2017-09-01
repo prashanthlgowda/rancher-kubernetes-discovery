@@ -1,4 +1,4 @@
-name: Dell SMI Device Discovery Microservice
+name: DellEMC SMI Device Discovery Microservice
 description: |
   (Experimental) SMI Device Discovery Microservice
 version: 1.0.0
